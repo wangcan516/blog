@@ -11,7 +11,7 @@ module.exports = {
         })
     ],
     lang: 'zh-CN',
-    title: '莫名点',
+    title: '哈哈灿',
     description: '问题汇总',
     theme: defaultTheme({
         home: '/',
