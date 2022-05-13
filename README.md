@@ -3,7 +3,7 @@
 ## 使用vuepress2.0搭建个人笔记本
 
 [vuepress2.0 官网](https://v2.vuepress.vuejs.org/zh/)
-[莫名点 blog](https://dyywork.github.io/blog/)
+[哈哈灿 blog](https://wangcan516.github.io/blog/)
 
 ### 按照官网步骤生成项目
 修改.vuepress 里config.js文件配置路由首页
@@ -21,7 +21,7 @@ module.exports = {
         })
     ],
     lang: 'zh-CN',
-    title: '莫名点',
+    title: '哈哈灿',
     description: '问题汇总',
     theme: defaultTheme({
         home: '/',
